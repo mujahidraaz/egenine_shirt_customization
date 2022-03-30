@@ -1,0 +1,28 @@
+@media screen and (max-width: 480px) {
+	.woocommerce-cart-form table td.product-thumbnail {
+	    width: 100% !important;
+	    padding: 0px !important;
+	    margin: 0px !important;
+	}
+	.product-thumbnail svg {
+	    width: 100% !important;
+	}
+	.product-name a {
+	    color: white;
+	}	
+	.woocommerce table.shop_table_responsive tr, .woocommerce-page table.shop_table_responsive tr {
+	    margin: 0px;
+	}
+}
+@media screen and (max-width: 375px) {
+    .main-section {
+        padding: 48px 4px 0px;
+    }
+    #input-text {
+        left: 44px;
+    }
+    .free-drawing {
+        left: 50px;
+    }
+
+}

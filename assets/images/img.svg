@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 608" style="enable-background:new 0 0 612 608;" xml:space="preserve">
+	    <rect width="548" height="548" fill="white" x="32" y="32" id="outerWhite"/>
+	    <rect width="543" height="543" fill="white" x="35" y="35" id="squareColor"/>
+<style type="text/css">
+	.st0{fill:#020202;}
+</style>
+<path class="st0" d="M33.1,32.7V579h546.3V32.7H33.1z M563.8,561.7H49.9V47.8h513.9V561.7z" id="borderStyle"/>
+</svg>
